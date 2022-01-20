@@ -1,0 +1,86 @@
+.nav-item {
+  font-family: "Helvetica Neue";
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: linear-gradient(104.23deg, #fff968 0%, #fdd33f 82.29%, #fac02d 99.99%);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-image: linear-gradient(to right, #FFF968,#FAC02D);
+}
+
+.row2 {
+  margin-top: 75px;
+  margin-left: 25px;
+}
+
+.col2 {
+  margin-top: 10px;
+  margin-left: -400px;
+}
+
+.h12 {
+  font-family: 'Ramaraja', serif;
+  font-weight: bolder;
+}
+
+.p2 {
+  margin-top: 30px;
+  width: 700px;
+  font-size: smaller;
+}
+
+.button2 {
+  border-radius: 20px;
+  width: 120px;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+.p3 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-bottom: -1px;
+  padding-right: -10px;
+  margin-top: 75px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: smaller;
+}
+
+.container2 {
+  background-color: white;
+  width: 500px;
+  padding-top: 19px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.h13 {
+  font-weight: bolder;
+}
+
+.input2 {
+  background-color: #ededed;
+  border: 0px;
+  width: 300px;
+}
+
+.label2 {
+  margin-top: 70px;
+}
+
+.label3 {
+  margin-bottom: 70px;
+}
+
+.a2 {
+  text-decoration: none;
+  color: black;
+  margin-left: 190px;
+}
